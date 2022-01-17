@@ -5,39 +5,51 @@ import { ref } from 'vue';
 import LuckyGrid from './components/packages/LuckyGrid.vue';
 const prizes = [{
   img: 'https://img.yzcdn.cn/vant/apple-1.jpg',
+  name: '苹果'
 },
 {
   img: 'https://img.yzcdn.cn/vant/apple-1.jpg',
+  name: '苹果'
 },
 {
   img: 'https://img.yzcdn.cn/vant/apple-1.jpg',
+  name: '苹果'
 },
 {
   img: 'https://img.yzcdn.cn/vant/apple-1.jpg',
+  name: '苹果'
 },
 {
   img: 'https://img.yzcdn.cn/vant/apple-1.jpg',
+  name: '苹果'
 },
 {
   img: 'https://img.yzcdn.cn/vant/apple-1.jpg',
+  name: '苹果'
 },
 {
   img: 'https://img.yzcdn.cn/vant/apple-1.jpg',
+  name: '苹果'
 },
 {
   img: 'https://img.yzcdn.cn/vant/apple-1.jpg',
+  name: '苹果'
 },
 {
   img: 'https://img.yzcdn.cn/vant/apple-1.jpg',
+  name: '苹果'
 },
 {
   img: 'https://img.yzcdn.cn/vant/apple-1.jpg',
+  name: '苹果'
 },
 {
   img: 'https://img.yzcdn.cn/vant/apple-1.jpg',
+  name: '苹果'
 },
 {
   img: 'https://img.yzcdn.cn/vant/apple-1.jpg',
+  name: '苹果'
 }]
 
 const luckyGrid = ref(null)

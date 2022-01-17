@@ -7,7 +7,7 @@
             <img :src="item.img">
           </div>
           <div class="bottom">
-            手机
+            {{ item.name }}
           </div>
         </div>
       </div>
