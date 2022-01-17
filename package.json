@@ -1,0 +1,31 @@
+{
+  "name": "horse-race-lamp",
+  "version": "0.1.0",
+  "main": "lib/horse-race-lamp.umd.min.js",
+  "keywords": [
+    "vue",
+    "lucky",
+    "抽奖",
+    "跑马灯",
+    "horse",
+    "lamp"
+  ],
+  "description": "vue跑马灯抽奖插件",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/topul/horse-race-lamp.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.25"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.0",
+    "less": "^4.1.2",
+    "vite": "^2.7.2"
+  }
+}
